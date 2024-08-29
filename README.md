@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asheen</h1>
+<h2 align="center">asheenk@gmail.com - Telegram: @asheenkamlal</h2>
 <h3 align="center">A passionate software developer from South Africa</h3>
 
-- 🌱 I’m fluent in **C#, .Net Core, JavaScript, TypeScript, React and Angular**
+- 🌱 I’m fluent in **C#, .Net, Blazor, JavaScript, TypeScript, React and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OrionProgrammer?tab=repositories](https://github.com/OrionProgrammer?tab=repositories) and on my BitBucket Repo at https://bitbucket.org/AsheenTheMachine/workspace/repositories
 
